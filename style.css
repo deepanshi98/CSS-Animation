@@ -60,7 +60,7 @@ h1 {
 
 @keyframes star_pulse {
     from {opacity: 1;}
-    to{opacity: 0.5;}
+    to{opacity: 0.3;}
     
 }
 
